@@ -18,7 +18,7 @@ The class provides a solution to one task of the GCHQ 2023 Christmas competition
 
 ```
 Demo:
-[https://www.alto-booking.com/developer/lettersDecode/](https://www.alto-booking.com/developer/getPairsLetters/)
+[https://www.alto-booking.com/developer/getPairsLetters/](https://www.alto-booking.com/developer/getPairsLetters/)
 
 
 File getPairsLetters.php
